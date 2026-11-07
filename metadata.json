@@ -1,0 +1,6 @@
+{
+  "name": "Drive Hub",
+  "description": "Modern Google Drive manager to browse, preview, search, upload, and organize your files with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
